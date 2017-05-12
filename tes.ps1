@@ -1,1 +1,1 @@
-Write-Host -ForegroundColor Yellow "Hello World!"
+Write-Host -ForegroundColor Yellow "Hello World!" -NoNewline
